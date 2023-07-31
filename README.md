@@ -50,7 +50,7 @@ php artisan serve
 ![image](https://github.com/ismarapw/kost-in-lombok/assets/76652264/9feae726-9de0-4c29-b81f-edc37c023487)
 ![image](https://github.com/ismarapw/kost-in-lombok/assets/76652264/d2507792-699d-47fa-81bf-4f685044d731)
 ![image](https://github.com/ismarapw/kost-in-lombok/assets/76652264/d6024996-fa9e-415c-8399-a67e9a497dde)
-![image](https://github.com/ismarapw/kost-in-lombok/assets/76652264/d2808f2d-ec2e-4909-b18f-33681a81657f)
+![image](https://github.com/ismarapw/kost-in-lombok/assets/76652264/9cfe628c-76ca-48d6-a745-04a19afa09ed)
 ![image](https://github.com/ismarapw/kost-in-lombok/assets/76652264/2eb1a671-a455-4fa2-9e0a-532bea7cf406)
 
 ## Kost Provider
