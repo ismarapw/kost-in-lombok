@@ -1,4 +1,4 @@
-# Kost of Lombok
+# Kost In Lombok
 Kost in Lombok is a website to provide boarding house (we usually call it kost in bahasa), bridging between the kost seeker and the kost provider. This website has been made for software Enggineering course project. This website implemented "Simple Reccomender System" for searching the kost based on the user's kost criteria.
 
 # Features
