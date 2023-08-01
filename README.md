@@ -10,7 +10,7 @@ Kost in Lombok is a website to provide boarding house (we usually call it kost i
 6. Add Kost to Favorite.
 7. Contact the kost provider.
 8. Edit profile.
-9. Create, Update, Delete Product (for the kost provider)
+9. Create, Update, Delete Kost (for the kost provider)
 
 # Installation and Usage
 At the beginning, you can clone this repository and you have to make sure that your machine has been installed with PHP (8.2.4), composer (2.5.8) and database (This project used XAMPP as a server). After that you can update this repository by using
